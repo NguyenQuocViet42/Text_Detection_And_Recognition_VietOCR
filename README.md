@@ -90,3 +90,4 @@ trainer.config.save('config.yml')
 
 ```
 # 3. Xây dựng pineline với input là ảnh chứa văn bản, output là văn bản trên ảnh đó
+Link colab: https://colab.research.google.com/drive/1T7QOv7jNjhV8DzQVu3fa2fvpQgeujmAN?usp=sharing
